@@ -1,0 +1,38 @@
+.gradle/  
+  
+# app的包  
+*.apk  
+*.ap_  
+  
+# VM的dex文件  
+*.dex  
+  
+# java的class文件  
+*.class  
+  
+# 自动生成的文件  
+bin/  
+gen/  
+  
+# 本地配置文件 (sdk path, 等等)  
+local.properties  
+  
+# Eclipse 的项目文件  
+.classpath  
+.project  
+  
+# Eclipse生成Proguard的文件夹  
+proguard/  
+  
+# Intellij project 文件  
+*.iml  
+*.ipr  
+*.iws  
+.idea/  
+out/  
+build/  
+**/build/  
+.gradle  
+production/  
+signing.properties  
+*~  
